@@ -1,1 +1,1 @@
-# Semantic-understanding-is-a-growing-classification-method
+#SContrastive classification: A label-independent generalization model for text classification
